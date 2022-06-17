@@ -20,7 +20,7 @@
         <lombok.version>1.18.10</lombok.version>
 
         <orc.version>1.6.2</orc.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
 
         <hadoop.version>2.6.0</hadoop.version>
         <cdh.version>5.7.6</cdh.version>
